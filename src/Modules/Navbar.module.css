@@ -1,0 +1,23 @@
+header {
+  background-color: #212121;
+  height: 4rem;
+  width: 100%;
+}
+.header-container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 900px;
+   
+}
+h1 {
+    font-size: 2rem;
+    color: #fff;
+}
+ul {
+    display: flex;
+    gap: 1rem;
+}
+li a {
+    color: #fff;
+    font-size: 1rem;
+}
